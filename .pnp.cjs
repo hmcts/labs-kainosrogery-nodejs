@@ -59,7 +59,6 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["axios", "npm:1.7.5"],\
             ["axios-debug-log", "virtual:0fe8ae6be068d2f30e6e1c4ad9d0c715db41428fa3e9a2c42a5aa8d93fba288315271172dae737de2f4d34a9b38ebab987b8667f4cbf6aa1a2f33cbd30fb6c1b#npm:1.0.0"],\
             ["babel-loader", "virtual:0fe8ae6be068d2f30e6e1c4ad9d0c715db41428fa3e9a2c42a5aa8d93fba288315271172dae737de2f4d34a9b38ebab987b8667f4cbf6aa1a2f33cbd30fb6c1b#npm:9.1.2"],\
-            ["body-parser", "npm:1.20.3"],\
             ["chai", "npm:4.3.7"],\
             ["chai-as-promised", "virtual:0fe8ae6be068d2f30e6e1c4ad9d0c715db41428fa3e9a2c42a5aa8d93fba288315271172dae737de2f4d34a9b38ebab987b8667f4cbf6aa1a2f33cbd30fb6c1b#npm:7.1.1"],\
             ["codeceptjs", "npm:3.6.5"],\
@@ -6688,7 +6687,6 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["axios", "npm:1.7.5"],\
             ["axios-debug-log", "virtual:0fe8ae6be068d2f30e6e1c4ad9d0c715db41428fa3e9a2c42a5aa8d93fba288315271172dae737de2f4d34a9b38ebab987b8667f4cbf6aa1a2f33cbd30fb6c1b#npm:1.0.0"],\
             ["babel-loader", "virtual:0fe8ae6be068d2f30e6e1c4ad9d0c715db41428fa3e9a2c42a5aa8d93fba288315271172dae737de2f4d34a9b38ebab987b8667f4cbf6aa1a2f33cbd30fb6c1b#npm:9.1.2"],\
-            ["body-parser", "npm:1.20.3"],\
             ["chai", "npm:4.3.7"],\
             ["chai-as-promised", "virtual:0fe8ae6be068d2f30e6e1c4ad9d0c715db41428fa3e9a2c42a5aa8d93fba288315271172dae737de2f4d34a9b38ebab987b8667f4cbf6aa1a2f33cbd30fb6c1b#npm:7.1.1"],\
             ["codeceptjs", "npm:3.6.5"],\
