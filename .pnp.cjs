@@ -91,6 +91,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["nodemon", "npm:2.0.22"],\
             ["nunjucks", "virtual:0fe8ae6be068d2f30e6e1c4ad9d0c715db41428fa3e9a2c42a5aa8d93fba288315271172dae737de2f4d34a9b38ebab987b8667f4cbf6aa1a2f33cbd30fb6c1b#npm:3.2.4"],\
             ["pa11y", "npm:6.2.3"],\
+            ["path-to-regexp", "npm:8.2.0"],\
             ["playwright", "npm:1.46.0"],\
             ["postcss", "npm:8.4.41"],\
             ["prettier", "npm:2.8.8"],\
@@ -7860,6 +7861,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["nodemon", "npm:2.0.22"],\
             ["nunjucks", "virtual:0fe8ae6be068d2f30e6e1c4ad9d0c715db41428fa3e9a2c42a5aa8d93fba288315271172dae737de2f4d34a9b38ebab987b8667f4cbf6aa1a2f33cbd30fb6c1b#npm:3.2.4"],\
             ["pa11y", "npm:6.2.3"],\
+            ["path-to-regexp", "npm:8.2.0"],\
             ["playwright", "npm:1.46.0"],\
             ["postcss", "npm:8.4.41"],\
             ["prettier", "npm:2.8.8"],\
@@ -17764,6 +17766,13 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./.yarn/cache/path-to-regexp-npm-6.3.0-ee2cdde576-eca78602e6.zip/node_modules/path-to-regexp/",\
           "packageDependencies": [\
             ["path-to-regexp", "npm:6.3.0"]\
+          ],\
+          "linkType": "HARD"\
+        }],\
+        ["npm:8.2.0", {\
+          "packageLocation": "./.yarn/cache/path-to-regexp-npm-8.2.0-71c92fc0c6-56e13e4596.zip/node_modules/path-to-regexp/",\
+          "packageDependencies": [\
+            ["path-to-regexp", "npm:8.2.0"]\
           ],\
           "linkType": "HARD"\
         }]\
