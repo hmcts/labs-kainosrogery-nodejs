@@ -37,3 +37,4 @@ version
 !.yarn/sdks
 !.yarn/versions
 output.json
+package.json
