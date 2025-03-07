@@ -36,3 +36,4 @@ version
 !.yarn/releases
 !.yarn/sdks
 !.yarn/versions
+output.json
