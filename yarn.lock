@@ -4465,7 +4465,7 @@ __metadata:
     "@typescript-eslint/eslint-plugin": 5.59.9
     "@typescript-eslint/parser": 5.59.9
     applicationinsights: 2.7.0
-    axios: 1.7.5
+    axios: 1.8.2
     axios-debug-log: 1.0.0
     babel-loader: 9.1.2
     body-parser: 1.20.3
