@@ -114,6 +114,9 @@
     "webpack-dev-middleware": "6.1.2",
     "webpack-node-externals": "3.0.0"
   },
+  "resolutions": {
+    "axios": "1.8.2"
+  },
   "husky": {
     "hooks": {
       "pre-commit": "lint-staged"
